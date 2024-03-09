@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ahanaf607307.github.io/text_C",
+  "homepage": "https://ahanaf607307.github.io/text_Currect",
   "name": "first_react_app",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,7 @@
     "react-dom": "^18.2.0",
     "react-router": "^6.22.3",
     "react-router-dom": "^6.22.3",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
