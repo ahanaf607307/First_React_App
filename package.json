@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ahanaf607307.github.io/text_Currect",
+  "homepage": "https://ahanaf607307.github.io/First_React_App",
   "name": "first_react_app",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
